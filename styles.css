@@ -1,0 +1,67 @@
+td{
+  border-top: 1px solid darkorchid
+}
+
+td, th{
+  display: table-cell;
+  vertical-align: inherit;
+}
+
+table{
+  white-space: normal;
+line-height: normal;
+font-weight: normal;
+font-size: medium;
+font-variant-ligatures: normal;
+font-variant-caps: normal;
+font-variant-east-asian: normal;
+font-variant-position: normal;
+font-style: normal;
+color: -webkit-text;
+text-align: start;
+}
+
+table {
+  display: table;
+border-collapse: separate;
+-webkit-border-horizontal-spacing: 2px;
+-webkit-border-vertical-spacing: 2px;
+border-top-color: gray;
+}
+
+table{
+border: 2px solid darkorchid;
+width: 650px;
+margin: 0 auto;
+}
+
+thead {
+display: table-header-group;
+vertical-align: middle;
+border-top-color: inherit;
+border-right-color: inherit;
+border-bottom-color: inherit;
+border-left-color: inherit;
+}
+
+thead{
+  background-color: plum;
+}
+
+.code {
+font-family: monospace;
+background-color: beige;
+}
+
+
+
+
+body{
+  font-family: Arial, sans-serif;
+background-color: gainsboro;
+}
+
+html{
+  display: block;
+color: text;
+}
